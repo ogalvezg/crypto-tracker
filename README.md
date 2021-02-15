@@ -1,5 +1,5 @@
 ### Before you start:
-This proyect was created for tablets and desktop mode only.
+This proyect was created for **tablets and desktop mode only.**
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
